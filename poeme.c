@@ -1,0 +1,31 @@
+#include    <stdio.h>
+#include    "message.h"
+
+CASSER  LA(void)
+{
+        SALUT_A_TOI
+        TOI_QUI_ME_LIS
+        A_TRAVERS_TON_ECRAN
+        A_TRAVERS_DU_MATERIEL
+
+        COMMENT_TU VAS 
+        DIS_LE_MOI
+        DIS_LE_DANS LES_COMMENTAIRES
+        LACHE_UN_POUCE_BLEU
+        LIKE_ET_PARTAGE 
+
+        SI_TOI_AUSSI_TU_PENSES QUE_PARFOIS_LES_GENS
+        SONT_DURS
+        BEAUCOUP_TROP_DURS
+        SONT_DURS
+        ET_BEAUCOUP_TROP VIOLENTS
+        MET_UN_POUCE_BLEU
+        TU_N_ES PAS_SEUL
+        TU_N_ES_PAS ANORMAL
+        TU_N_ES_PAS BIZARRE
+    
+        TU_ES_IMPORTANT
+        CAR_TU_VAS PEUT_ETRE_SAUVER LE_MONDE
+
+        NE_SOIS_PAS_TRISTE JE_SUIS_AVEC_TOI
+}
